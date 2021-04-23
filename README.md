@@ -23,10 +23,6 @@ $ mv ~/Downloads/data_depth_annotated.zip .
 $ unzip data_depth_annotated.zip
 ```
 
-Follow instructions from one of the below implementations with your choice.
-
-## TensorFlow Implementation
-[[./tensorflow/]](./tensorflow/)
 ## PyTorch Implementation
 [[./pytorch/]](./pytorch/)
 
